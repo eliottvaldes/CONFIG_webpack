@@ -1,0 +1,7 @@
+- To create a build to production mode we need to create the file webpack.prod.js
+
+- We can add a hash to the file name to avoid caching issues
+
+- If we want to minimaze the css file we use in -D mode
+css-minimizer-webpack-plugin and terser-webpack-plugin
+=> the we create the instances in object 'optimizations'

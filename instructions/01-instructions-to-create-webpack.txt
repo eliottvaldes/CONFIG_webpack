@@ -1,0 +1,22 @@
+- to start the webpack
+npm init
+
+- set a package name 
+
+- select the version
+
+- set a description
+
+- set the initial execution file (index.js -> default)
+
+- test command (optional)
+
+- git repository (optional)
+
+- set keywords (optional in case we upload to npm packages)
+
+- set author
+
+- select the license
+
+- accept

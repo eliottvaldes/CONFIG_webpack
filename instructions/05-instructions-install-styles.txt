@@ -1,0 +1,13 @@
+To use dynamic styles in specific files we nedd to add new packages
+
+
+-import the styles in the file.js required import '../css/functions.css';
+
+- install the next required packages
+npm install -D style-loader css-loader
+
+- in webpack.config create a new rule to be able to import 
+{
+    test: /\.css$/,
+    use: ['style-loader','css-loader']
+}

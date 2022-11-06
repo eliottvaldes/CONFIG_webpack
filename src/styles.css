@@ -1,0 +1,12 @@
+html,
+body {
+    background-color: #ddd;
+}
+
+img {
+    width: 150px;
+    /* set a margin top and bottom of 10 pixeles */
+    margin: 10px 0px 10px 0px;
+    /* set a shadow */
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.70);
+}
