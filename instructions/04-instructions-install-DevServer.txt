@@ -1,6 +1,0 @@
-- install dev server package
-npm install -d webpack-dev-server
-
--modify package.json in "scripts"
-"start": "webpack serve --config webpack.config.js --open --port=8080"
-    (inicial in servidor local pendiente a la escucha en el puerto definido)
