@@ -1,0 +1,13 @@
+- BABEL IS USED TO TRANSFORM THE MODERN FEAUTURES TO PREVIOUS VERSIONS ACCEPTED BY MOTE BROWSERS.
+
+- We use babel to change the code to ES5 that it's accepted in more browsers.
+
+- Go to babel website to copy the code to install it. `npm install -D babel-laoder @babel/core`
+
+- Add the new rule to the webpack.prod.js file. => the rule it's aready writed in the babel website
+
+- Create a file called `babel.config.js` and paste the code from babel website.
+`{
+    "presets": ["@babel/preset-env"]
+    // it's the config file for babel
+}`

@@ -1,3 +1,4 @@
 {
     "presets": ["@babel/preset-env"]
+    // it's the config file for babel
 }
