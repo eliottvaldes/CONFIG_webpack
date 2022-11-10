@@ -8,6 +8,6 @@ import { sayHello } from './js/functions';
 // import styles
 import './styles.css'; 
 
-const name = 'Eliot Valdés';
+const name = 'Your Name';
 
 sayHello(name)

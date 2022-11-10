@@ -1,7 +1,7 @@
 {
-  "name": "first-webpack",
+  "name": "my-app",
   "version": "1.0.0",
-  "description": "This is a test of webpack project",
+  "description": "Set the description of your app here",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eliottvaldes/curso-js-fernando-herrera.git"
+    "url": "git+https://github.com/eliottvaldes/webpack-configuration.git"
   },
   "bugs": {
-    "url": "https://github.com/eliottvaldes/curso-js-fernando-herrera/issues"
+    "url": "https://github.com/eliottvaldes/webpack-configuration/issues"
   },
-  "homepage": "https://github.com/eliottvaldes/curso-js-fernando-herrera#readme"
+  "homepage": "https://github.com/eliottvaldes/webpack-configuration#readme"
 }
